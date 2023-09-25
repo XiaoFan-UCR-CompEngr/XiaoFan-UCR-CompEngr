@@ -19,11 +19,11 @@ I'm a Computer Engineering student with a focus on Robotics, AI, and Embedded Sy
   - Developed advanced curriculum focused on AI and machine learning.
   - Introduced students to automated driving and facial recognition technologies through hands-on projects.
   
-- **IT Technician** - *J and F Headwear, Orange, CA* (Jun 2021 - Oct 2021)
+- **Software Engineer** - *J and F Headwear, Orange, CA* (Jun 2021 - Oct 2021)
   - Orchestrated computer setups and maintenance, reducing downtime by 20%.
   - Introduced a rapid response protocol for technical issues, enhancing resolution time and employee satisfaction.
 
-- **Robotics Technician** - *iLife Robotics, Riverside, CA* (Jun 2020 - Oct 2020)
+- **Robotics Engineer** - *iLife Robotics, Riverside, CA* (Jun 2020 - Oct 2020)
   - Spearheaded robot repairs and motherboard replacements, achieving a 100% success rate in restoring functionality.
 
 ### 📚 Projects
